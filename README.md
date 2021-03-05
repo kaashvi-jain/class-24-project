@@ -1,1 +1,1 @@
-# class-24-project
+# Box Class
